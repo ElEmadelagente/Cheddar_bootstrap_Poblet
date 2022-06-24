@@ -1,0 +1,29 @@
+#navbarNav{
+    justify-content: flex-end;
+
+}
+.header{
+    background-color: rgb(96, 79, 124);
+    height:20vh;
+}
+.navbar-brand{
+    color: #E7C5F7;
+}
+.header .nav-link{
+    color: #E7C5F7;
+}
+
+.main{
+    height: 65vh;
+    background-color: #E7C5F7;
+}
+.nezuko{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.footer{
+    height:15vh;
+    background-color: rgb(96, 79, 124);
+}
